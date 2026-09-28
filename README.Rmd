@@ -1,7 +1,7 @@
 ## README for file(1) Command ##
 
     @(#) $File: README,v 1.50 2016/04/16 22:40:54 christos Exp $
-
+ 
 Mailing List: file@mx.gw.com  
 Mailing List archives: http://mx.gw.com/pipermail/file/  
 Bug tracker: http://bugs.gw.com/  
